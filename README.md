@@ -1,2 +1,2 @@
 # openfoxwq_dist
-A placeholder repository for distribution for openfoxwq native clients
+A placeholder repository for distribution of openfoxwq native clients
